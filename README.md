@@ -1,3 +1,7 @@
+# FORKED BECAUSE
+
+Used to work with [ember-list-view](https://github.com/geekingreen/ember-list-view) `bower install ember-list-view`
+
 # DEPRECATED
 
 [Ember.ListView](https://github.com/emberjs/list-view) is now an addon as of [#203](https://github.com/emberjs/list-view/pull/203). Great job, [@taras](https://github.com/taras), for contributing the change.
